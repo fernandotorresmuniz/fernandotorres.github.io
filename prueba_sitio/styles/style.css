@@ -1,0 +1,33 @@
+
+html {
+  background-color: #D9CF43;
+  font-size: 20px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: "Indie Flower", cursive;/* Este debe ser el resto del resultado que obtuviste de Google fonts */
+}
+
+body {
+  width: 650px;
+  margin: 0 auto;
+  background-color: #FBE412;  
+  padding: 20px 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h2 {
+  margin: 0;
+  padding: 20px 0;
+  color: #3F3FBF;
+  text-align: center;
+}
+
+img {
+  width: 650px;
+  display: block;
+  margin: 0 auto;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+ }

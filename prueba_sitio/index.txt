@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+    <title>Pagina para pruebas ARDUINO</title>
+  </head>
+  <body>
+     <h2> * CREANDO EN ARDUINO *</h2>
+    
+     <br>
+     <img src="images/Arduino_Logo2.png"> 
+     
+     <br>
+     <br>
+     <p> Pagina creada para darme soporte en: </p>
+     <ul> 
+     <li>Pruebas</li>
+     <li>Practicas</li>
+     <li>Proyectos</li>
+     </ul>  
+     <a href="https://www.arduino.cc/education/">Arduino Education </a>
+     <br>
+     <br>
+     <button>Cambiar de usuario</button>
+
+<script src="scripts/main.js"></script>
+
+</body>
+
+</html>
