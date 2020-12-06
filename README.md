@@ -1,3 +1,2 @@
 # fernandotorres.github.io
-sitio web
-Pagina para mostrar instancias de mis proyectos de Arduino
+sitio web para mostrar instancias de mis proyectos de Arduino
